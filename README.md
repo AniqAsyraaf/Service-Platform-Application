@@ -1,2 +1,2 @@
 # Service Platform Application
- Mobile Apps which loow people to find and book service using Android Studio
+ Mobile Application for find and booking service developed by using Android Studio
