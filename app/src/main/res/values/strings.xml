@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name">ProjectAndroid</string>
+    <string-array name="Service_Provider_Type">
+        <item>None</item>
+        <item>Technician</item>
+        <item>Plumber</item>
+        <item>Electrician</item>
+    </string-array>
+
+    <string-array name="state">
+        <item>None</item>
+        <item>Johor</item>
+        <item>Melaka</item>
+        <item>Negeri Sembilan</item>
+        <item>Selangor</item>
+        <item>Kedah</item>
+        <item>Perlis</item>
+        <item>Pulau Pinang</item>
+        <item>Perak</item>
+        <item>Kelantan</item>
+        <item>Terengganu</item>
+        <item>Pahang</item>
+        <item>Sabah</item>
+        <item>Sarawak</item>
+        <item>W.P. Kuala Lumpur</item>
+        <item>W.P. Labuan</item>
+        <item>W.P. Putrajaya</item>
+    </string-array>
+
+    <string-array name="Johor">
+        <item>None</item>
+        <item>Batu Pahat</item>
+        <item>Johor Bahru</item>
+        <item>Kluang</item>
+        <item>Kulai</item>
+        <item>Mersing</item>
+        <item>Muar</item>
+        <item>Pontian</item>
+        <item>Segamat</item>
+        <item>Kota Tinggi</item>
+        <item>Tangkak</item>
+    </string-array>
+
+    <string-array name="Melaka">
+        <item>None</item>
+        <item>Alor Gajah</item>
+        <item>Jassin</item>
+        <item>Melaka Tengah</item>
+    </string-array>
+
+    <string-array name="Negeri_Sembilan">
+        <item>None</item>
+        <item>Jelebu</item>
+        <item>Jempol</item>
+        <item>Kuala Pilah</item>
+        <item>Port Dickson</item>
+        <item>Rembau</item>
+        <item>Seremban</item>
+        <item>Tampin</item>
+    </string-array>
+
+    <string-array name="Selangor">
+        <item>None</item>
+        <item>Petaling</item>
+        <item>Hulu Langat</item>
+        <item>Gombak</item>
+        <item>Klang</item>
+        <item>Kuala Selangor</item>
+        <item>Sepang</item>
+        <item>Kuala Langat</item>
+        <item>Sabak Bernam</item>
+        <item>Hulu Selangor</item>
+    </string-array>
+
+    <string-array name="Kedah">
+        <item>None</item>
+        <item>Baling</item>
+        <item>Kota Setar</item>
+        <item>Kuala Muda</item>
+        <item>Kubang Pasu</item>
+        <item>Kulim</item>
+        <item>Langkawi</item>
+        <item>Padang Terap</item>
+        <item>Pendang</item>
+        <item>Bandar Bahru</item>
+        <item>Sik</item>
+        <item>Yan</item>
+    </string-array>
+
+    <string-array name="Perlis">
+        <item>None</item>
+        <item>Kangar</item>
+    </string-array>
+
+    <string-array name="Pulau_Pinang">
+        <item>None</item>
+        <item>Seberang Perai Tengah</item>
+        <item>Timur Laut</item>
+        <item>Seberang Perai Selatan</item>
+        <item>Barat Daya</item>
+        <item>Seberang Perai Utara</item>
+    </string-array>
+
+    <string-array name="Perak">
+        <item>None</item>
+        <item>Hilir Perak</item>
+        <item>Kinta</item>
+        <item>Perak Tengah</item>
+        <item>Larut, Matang, Selama</item>
+        <item>Manjung</item>
+        <item>Kuala Kangsar</item>
+        <item>Hulu Perak</item>
+        <item>Kerian</item>
+        <item>Batang Padang</item>
+        <item>Muallim</item>
+        <item>Kampar</item>
+    </string-array>
+
+    <string-array name="Kelantan">
+        <item>None</item>
+        <item>Bachok</item>
+        <item>Gua Musang</item>
+        <item>Kota Bharu</item>
+        <item>Tanah Merah</item>
+        <item>Kuala Krai</item>
+        <item>Pasir Mas</item>
+        <item>Pasir Puteh</item>
+        <item>Tumpat</item>
+        <item>Jeli</item>
+        <item>Machang</item>
+    </string-array>
+
+    <string-array name="Terengganu">
+        <item>None</item>
+        <item>Besut</item>
+        <item>Dungun</item>
+        <item>Kemaman</item>
+        <item>Kuala Terengganu</item>
+        <item>Marang</item>
+        <item>Kuala Nerus</item>
+        <item>Setiu</item>
+        <item>Hulu Terengganu</item>
+    </string-array>
+
+    <string-array name="Pahang">
+        <item>None</item>
+        <item>Bentong</item>
+        <item>Jerantut</item>
+        <item>Bera</item>
+        <item>Raub</item>
+        <item>Lipis</item>
+        <item>Cameron Highland</item>
+        <item>Kuantan</item>
+        <item>Maran</item>
+        <item>Pekan</item>
+        <item>Temerloh</item>
+        <item>Rompin</item>
+    </string-array>
+
+    <string-array name="Sabah">
+        <item>None</item>
+        <item>Kota Kinabalu</item>
+        <item>Kota Belud</item>
+        <item>Penampang</item>
+        <item>Semporna</item>
+        <item>Sipitang</item>
+        <item>Beufort</item>
+        <item>Putatan</item>
+        <item>Kunak</item>
+        <item>Ranau</item>
+        <item>Papar</item>
+        <item>Tuaran</item>
+        <item>Tawau</item>
+        <item>Sandakan</item>
+        <item>Lahad Datu</item>
+        <item>Kinabatangan</item>
+    </string-array>
+
+    <string-array name="Sarawak">
+        <item>None</item>
+        <item>Kuching</item>
+        <item>Samarahan</item>
+        <item>Serian</item>
+        <item>Sri Aman</item>
+        <item>Betong</item>
+        <item>Sarikei</item>
+        <item>Sibu</item>
+        <item>Kapit</item>
+        <item>Mukah</item>
+        <item>Bintulu</item>
+        <item>Miri</item>
+        <item>Limbang</item>
+    </string-array>
+
+    <string-array name="W_P_Kuala_Lumpur">
+        <item>None</item>
+        <item>Cheras</item>
+        <item>Kepong</item>
+        <item>Lembah Pantai</item>
+        <item>Titiwangsa</item>
+    </string-array>
+
+    <string-array name="W_P_Putrajaya">
+        <item>None</item>
+        <item>Putrajaya</item>
+    </string-array>
+
+    <string-array name="W_P_Labuan">
+        <item>None</item>
+        <item>Labuan</item>
+    </string-array>
+    <string-array name="None">
+        <item>None</item>
+    </string-array>
+
+    <string name="register_rule">
+        Qualification to become a AppsName partner
+        -Have a valid business license
+        -Operating at least 4 days a week
+        -Minimum operation hours 4 hours a day
+        -Fixed operational address
+    </string>
+</resources>

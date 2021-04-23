@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.projectandroid">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProjectAndroid">
+        <activity android:name=".LoginService"
+            />
+        <activity android:name=".RegisterService"
+            />
+        <activity android:name=".LoginCustomer"
+            />
+        <activity android:name=".RegisterCustomer"
+            />
+        <activity android:name=".CustomerChooseServiceType"
+            />
+        <activity android:name=".CustomerMenu"
+            />
+        <activity android:name=".CustomerList"
+            />
+        <activity android:name=".CustomerChooseService"
+            />
+        <activity android:name=".SerlistList"
+            />
+        <activity android:name=".CustomerMainMenu"
+            />
+        <activity android:name=".ServiceMainMenu"
+            />
+        <activity android:name=".AddNewService"
+            />
+        <activity android:name=".BookService"
+            />
+        <activity android:name=".BookingList"
+            />
+        <activity android:name=".ManageBooking"
+            />
+        <activity android:name=".OngoingBookingList"
+            />
+        <activity android:name=".ManageOngoingBooking"
+            />
+        <activity android:name=".BookingHistoryList"
+            />
+        <activity android:name=".Feedback"
+            />
+        <activity android:name=".UpdateCustomer"
+            />
+
+
+
+
+        <activity android:name=".MainMenuForAll">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
